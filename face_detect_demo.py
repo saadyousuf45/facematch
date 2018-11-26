@@ -1,5 +1,5 @@
 import tensorflow as tf
-from align import detect_face
+import detect_face
 import cv2
 import imutils
 import numpy as np
